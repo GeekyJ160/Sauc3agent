@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SAUC3 Agent",
+      "hasCanvas": false,
+      "bodyTextLen": 1547,
+      "bodyTextHash": "76675ecf3cc6c9fc0d69773d9d0d03a6560c3667dd948502d3082703d68b0f31",
+      "bodyTextPrefix": "VOCAL RACK SAUC3 AGENT KEY — STAGE WAIT BPM IN −∞ STAGED −∞ OUT ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SAUC3 Agent",
+      "hasCanvas": false,
+      "bodyTextLen": 1567,
+      "bodyTextHash": "1b0fa33a7c37eb6ad586458094779b7ceb2c062abf79cd9212e9ef4296720277",
+      "bodyTextPrefix": "VOCAL RACK SAUC3 AGENT KEY — STAGE WAIT BPM IN −∞ STAGED −∞ OUT ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

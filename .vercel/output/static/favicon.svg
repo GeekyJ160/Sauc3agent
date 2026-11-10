@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="SAUC3 Agent">
+  <rect width="32" height="32" rx="7" fill="#0c0d10"/>
+  <rect x="3.5" y="5" width="25" height="6.2" rx="1.2" fill="#16181c" stroke="#9a9488" stroke-width="0.9"/>
+  <rect x="3.5" y="12.9" width="25" height="6.2" rx="1.2" fill="#16181c" stroke="#9a9488" stroke-width="0.9"/>
+  <rect x="3.5" y="20.8" width="25" height="6.2" rx="1.2" fill="#16181c" stroke="#9a9488" stroke-width="0.9"/>
+  <rect x="6" y="7.1" width="9" height="1.8" rx="0.4" fill="#e2a23a"/>
+  <rect x="6" y="15" width="13" height="1.8" rx="0.4" fill="#e2a23a"/>
+  <rect x="6" y="22.9" width="6" height="1.8" rx="0.4" fill="#f3efe6"/>
+  <circle cx="24.2" cy="8" r="1.35" fill="#e2a23a"/>
+  <circle cx="24.2" cy="16" r="1.35" fill="#e2a23a"/>
+  <circle cx="24.2" cy="23.9" r="1.35" fill="#9a9488"/>
+</svg>
